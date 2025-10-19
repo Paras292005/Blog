@@ -1,2 +1,3 @@
 # Blog
-this is my first repo
+This is my first Git repo
+Author - Paras more 
